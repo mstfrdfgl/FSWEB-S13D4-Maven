@@ -6,7 +6,6 @@ import org.junit.jupiter.api.extension.ExtendWith;
 import org.example.Point;
 import org.example.Player;
 import org.example.Weapon;
-
 import java.lang.reflect.Field;
 
 import static org.hamcrest.MatcherAssert.assertThat;
